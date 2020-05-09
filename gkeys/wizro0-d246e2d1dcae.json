@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wizro0",
+  "private_key_id": "d246e2d1dcaead417573964afbcacb5cdeb22b1d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCNF1L6aUpqihl+\nBUlmkmzpLrF+9yHiXNJrYsPgoKHtZQ2ZAblJ/iydlNnxFFaIMTLlrnXoWy5SLJM1\nfrxP5Foanmz88GeDIHvdRHKEFUTDZTyVJwbLBzYZrpJlyBk9dmOoNP/4IYSYbNXl\nNE4MJQrqR8SiRlnhpqfrCwbgBhM9YS73Rj47OaWth/ied7kCdoWdwS6IqZH1z5H1\nOm1ueOqahaEQsqzOD6KQQltuWiyiTevwQsGycN5QGfSXnEbNXiOFz7JitRnzAH4I\nC8xJHJZeEyGffgX3JjGZo7veMKzrlzJvGnma53h4hiAfMIV9qrO5/vBYs8br+SZB\nIA26t3bZAgMBAAECggEANWD2JUQRgeY2h82DPBm4t63RPEpOWQAqIbOPjNvo91IM\nh282BS7y/TlUDRfXNxZ5/Zh4Bkz85Nz1Yr9MimNHzZtTe4yOdPcktY1QT/Vl+xDB\nj2Jg+Q4E40l/HJ/MIMs6H+jRULSJoEtIzzrvLjwTeZhmZch899if3dZhpv7VZ5pd\nfAJ2WrLtH/pDmUt1ZR60ZMrzKKTkFEc5uSdqu405u4J6ZamTQCnpvcB9eCPN1hd3\nuuz/5on1MRQJsIBgwnW9RZ/Pmoe/DY8IEKa/A4MqTaHIt6XR5/DAX3nv7j4Bm0GN\nqWTIdpBlaV8k1CwSN4U8aAUgkqVHJVECjzl9WZdY4wKBgQDHbwAPKLrqPjEq3+4D\n/w8nT58V6b4Fo0VDrA2FmVAwlNmdwYzz4I0depiti88z7Sya4DPspW/xzXEuiv+S\nzJJAjeRJBBSIOTankhouR5zWPMEXuYrFmM2ezYwmlj2Xg++ilCa137KwWnhvXTrN\niHO6vMTFmlXW5K4N8u93MU2qbwKBgQC1HAoBu+xbuW/IrzsPgo20WPiDZPtJPXAw\nZDRYiLrLeVLjvUsZa+pg83bmNKykIznsMz4jLb7Hxi0oBtb+ogjneLNpjU1mzAQg\nIccFL02v5sxWm4nZdTbFj/D+sOMTkx7fL91Qix6aqM29xihuKkJd6tP0d9bcBzrT\nAKJPgDY3NwKBgEGUx9E0VJrYzrRJpOxdgG8t6KN9FMan1QwW1O985fjDyfftgNtl\nmSH7gZ94HS/3KzbWyVxlXrWGGFT00mxEp0dhIZO9Kr9NCSL7kW5skC+HFPwnQHIP\n+HXjI9ZAi4p6kV/GFiCyqgECDx6X6tFRsLTUhGRyhw2+b1oY7BQm+2IzAoGBAKkm\n6Qm5lQYOaiNL1qOj0enxdxpxhGlhYpkv3dwayCwmwo5GTBAQRLYMbq6P3/bll8HO\nEmkU3q0DoUVTLhZhDGP0zcz11qb+QZQpOBLVnX9+1rbFSri5y1A2ImYem9e6fwkB\nUXlalljo9FAc9cH+4kGJhDE+hIS4k+5jFzWdkAV9AoGBALy7eJZjkzc28vjhc3JE\nLc0Su0tcgWTyba/H8ng5CY8SpeKT4USf3u0OLY6v+HdepPYrVsadsjdV2ZBKPYP8\nY3avkjdli6xrSXDXdxr9Jn5mnDsbRkZ2W//MLKXfUhxe+0gpTDfMcW5ruCT4iTJ/\n3DDSrfteiEIbIgQwZwzCzCZZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "wizro-278@wizro0.iam.gserviceaccount.com",
+  "client_id": "108003936165747138507",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wizro-278%40wizro0.iam.gserviceaccount.com"
+}
