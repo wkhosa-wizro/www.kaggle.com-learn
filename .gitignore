@@ -19,4 +19,5 @@ ipython_config.py
 
 # Google Cloud Platform Keys
 
+git rm -r */gkeys/
 */gkeys/
